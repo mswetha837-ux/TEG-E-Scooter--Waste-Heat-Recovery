@@ -22,4 +22,4 @@ TEG Module (2V) -> MT3608 Boost Converter -> 5V Regulated -> E-Scooter Battery
 - Google 
 
 ### Future Scope
-If integrated across a full fleet, it can provide 1km+ free range.ste-Heat-Recovery
+If integrated across a full fleet, it can provide 1km+ free range.
